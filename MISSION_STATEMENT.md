@@ -1,6 +1,6 @@
-* Athens EuRuKo 2013 Mission Statement
+# Athens EuRuKo 2013 Mission Statement
   
-** What is Euruko?
+### What is Euruko?
   EuRuKo is an annual European conference about the Ruby ecosystem,
   each year organised in a different European city, aiming at bringing
   together individuals, organisations, companies and the community at large. 
@@ -10,7 +10,7 @@
   Ruby technology and fostering the community ties in an individual as
   well as in a collective level.
   
-** What is Ruby?
+### What is Ruby?
   Ruby, an exciting, powerful, highly productive and mature
   programming language used by thousands of programmers and companies,
   is celebrating its birthday in 2013 and what better way to do it
@@ -20,18 +20,18 @@
   successfully run diverse operations and enterprises spanning from
   very high traffic social networks to research and government entities. 
 
-** Why are we (the committee) organising this event?
+### Why are we (the committee) organising this event?
    
-** What’s in it for the sponsors, foreign and local?
+### What’s in it for the sponsors, foreign and local?
    Στην ενδυνάμωση των σχέσεων μεταξύ των εταιριών του κλάδου και των μελλών της κοινότητας
 
-** What’s in it for the local community, country, greek professional sector and greek education system
+### What’s in it for the local community, country, greek professional sector and greek education system
    Στην ανάπτυξη της τοπικής κοινότητας προγραμματιστών της γλώσσας αυτής
    Στην ενδυνάμωση της επικοινωνίας μεταξύ της τοπικής κοινότητας προγραμματιστών και της παγκόσμιας
    Στην προβολή της τοπικής τεχνολογικής κοινότητας στο εξωτερικο
    Στην προβολή της γλώσσας σε εκπαιδευτικούς φορείς της χώρας
    
-** Where is the money
+### Where is the money (maybe irrelevant for Mission Statement)
 
 
 
