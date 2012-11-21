@@ -7,8 +7,8 @@
   Participants from all over the world gather for 2 exciting days full
   of cutting edge technology presentations, best Ruby practices,
   intriguing techniques and networking. EuRuKo is all about promoting
-  Ruby technology and fostering the community ties in an individual as
-  well as in a collective level.
+  Ruby technology and strengthening  the community ties in an individual
+  as well as in a collective level.
   
 ### What is Ruby?
   Ruby, an exciting, powerful, highly productive and mature
@@ -21,17 +21,21 @@
   very high traffic social networks to research and government entities. 
 
 ### Why are we (the committee) organising this event?
-   
-### What’s in it for the sponsors, foreign and local?
-   Στην ενδυνάμωση των σχέσεων μεταξύ των εταιριών του κλάδου και των μελλών της κοινότητας
+   We are thrilled to host the 2013 EuRuKo in Athens and while this
+   comes with some unique challenges it also present us with an excellent
+   opportunity to initiate a vital knowledge exchange among
+   professionals from around the world and their greek peers. 
 
-### What’s in it for the local community, country, greek professional sector and greek education system
-   Στην ανάπτυξη της τοπικής κοινότητας προγραμματιστών της γλώσσας αυτής
-   Στην ενδυνάμωση της επικοινωνίας μεταξύ της τοπικής κοινότητας προγραμματιστών και της παγκόσμιας
-   Στην προβολή της τοπικής τεχνολογικής κοινότητας στο εξωτερικο
-   Στην προβολή της γλώσσας σε εκπαιδευτικούς φορείς της χώρας
+### What’s the benefit to the local community, country, greek professional sector and greek education system?
+   Στην ενδυνάμωση της επικοινωνίας μεταξύ της τοπικής και της
+   παγκόσμιας κοινότητας προγραμματιστών.
+   Στην προβολή της τοπικής τεχνολογικής κοινότητας στο εξωτερικο.
+   Στην ανάπτυξη της τοπικής κοινότητας προγραμματιστών και την
+   προβολή της Ruby σε εκπαιδευτικούς φορείς της χώρας.
+
+### What’s in it for the sponsors, foreign and local?
+   Στην ενδυνάμωση των σχέσεων μεταξύ των εταιριών του κλάδου και των
+   μελλών της κοινότητας
+
    
 ### Where is the money (maybe irrelevant for Mission Statement)
-
-
-
