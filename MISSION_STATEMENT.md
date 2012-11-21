@@ -20,22 +20,14 @@
   successfully run diverse operations and enterprises spanning from
   very high traffic social networks to research and government entities. 
 
-### Why are we (the committee) organising this event?
+### Why are we organising this event? What’s the benefit to the local community, greek professional sector and greek education system?
    We are thrilled to host the 2013 EuRuKo in Athens and while this
-   comes with some unique challenges it also present us with an excellent
-   opportunity to initiate a vital knowledge exchange among
-   professionals from around the world and their greek peers. 
-
-### What’s the benefit to the local community, country, greek professional sector and greek education system?
-   Στην ενδυνάμωση της επικοινωνίας μεταξύ της τοπικής και της
-   παγκόσμιας κοινότητας προγραμματιστών.
-   Στην προβολή της τοπικής τεχνολογικής κοινότητας στο εξωτερικο.
-   Στην ανάπτυξη της τοπικής κοινότητας προγραμματιστών και την
-   προβολή της Ruby σε εκπαιδευτικούς φορείς της χώρας.
-
-### What’s in it for the sponsors, foreign and local?
-   Στην ενδυνάμωση των σχέσεων μεταξύ των εταιριών του κλάδου και των
-   μελλών της κοινότητας
-
+   comes with some unique challenges it also present us with a number
+   of  excellent opportunities such as initiating a vital knowledge
+   exchange and communication among professionals from around the
+   world and their greek peers, fostering the local community and
+   introducing the Ruby way to the Greek academic institutions
+   and wider private sector. Last but not least, to promote our
+   invaluable tool of choice and have fun.
    
-### Where is the money (maybe irrelevant for Mission Statement)
+May the Rubee with you!
