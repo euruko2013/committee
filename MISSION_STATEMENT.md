@@ -20,14 +20,14 @@
   successfully run diverse operations and enterprises spanning from
   very high traffic social networks to research and government entities. 
 
-### Why are we organising this event? What’s the benefit to the local community, greek professional sector and greek education system?
+### Why are we organising this event?
    The Greek Ruby community is thrilled to host the 11th EuRuKo in Athens on June 2013 and
    while this comes with some unique challenges it also presents us with a number
    of  excellent opportunities such as initiating a vital knowledge
    exchange and communication among professionals from around the
-   world and their greek peers, fostering the local community and
+   world and their Greek peers, fostering the local community and
    introducing the Ruby way to the Greek academic institutions
-   and wider private sector. Last but not least, to promote our
-   invaluable tool of choice and have fun.
+   and wider private sector. Last, but not least, to promote our
+   invaluable language of choice and have fun.
    
 May the Rubee with you!
